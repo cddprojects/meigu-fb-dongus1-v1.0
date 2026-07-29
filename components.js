@@ -149,7 +149,7 @@
       <a href="index.html#markets">Markets</a>\
       <a href="index.html#testimonials">Community</a>\
       <a href="index.html#faq">FAQ</a>\
-      <a href="index.html#join" class="drawer-cta">See Tomorrow\'s Analysis</a>\
+      <a href="index.html#join" class="drawer-cta">Get Today\'s Free Market Briefing</a>\
     </div>\
   ';
 
@@ -162,7 +162,7 @@
             <div class="logo-icon">' + CHART_ICON + '</div>\
             <span style="color:#fff;">US<em style="color:var(--gold, #f59e0b);">StockEdge</em></span>\
           </a>\
-          <p>Free daily US stock market insights and technical analysis delivered to investors via WhatsApp. For informational purposes only.</p>\
+          <p>Free daily US stock market analysis and research data delivered to investors via WhatsApp. For informational and educational purposes only.</p>\
         </div>\
         <div class="footer-links">\
           <h5>Quick Links</h5>\
