@@ -74,7 +74,7 @@ button[data-hz-whatsapp-cta] {
   padding: 0 0.8rem 0 0.05rem;
   white-space: nowrap;
   pointer-events: none;
-  font: 700 1rem/1 "Manrope", system-ui, sans-serif;
+  font: 700 1rem/1 "Inter", system-ui, sans-serif;
   opacity: 0;
   transform: translateX(0.4rem);
   transition: opacity 150ms ease 70ms, transform 210ms ease 30ms;
@@ -156,7 +156,7 @@ button[data-hz-whatsapp-cta] {
 
 .hz-whatsapp__title {
   margin: 0;
-  font: 800 clamp(1.2rem, 2.5vw, 1.45rem)/1.25 "Manrope", system-ui, sans-serif;
+  font: 600 clamp(1.2rem, 2.5vw, 1.45rem)/1.25 "Inter", system-ui, sans-serif;
   letter-spacing: -0.025em;
   color: var(--hz-wa-ink);
 }
@@ -165,7 +165,7 @@ button[data-hz-whatsapp-cta] {
   max-width: 27rem;
   margin: 0.25rem 0 0;
   color: var(--hz-wa-muted);
-  font: 500 0.88rem/1.5 "Manrope", system-ui, sans-serif;
+  font: 500 0.88rem/1.5 "Inter", system-ui, sans-serif;
 }
 
 .hz-whatsapp__close {
